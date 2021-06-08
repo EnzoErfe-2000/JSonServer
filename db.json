@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Testing",
+      "author": "Delvin Duldulao"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "fighting_games": [
+	{
+		"id" : 0,
+		"name" : "Guilty Gear Strive",
+		"Rating" : "Great"
+	},
+	{
+		"id" : 1,
+		"name" : "DBFZ",
+		"Rating" : "What is superdash"
+	},
+	{
+		"id" : 2,
+		"name" : "Skullgirls",
+		"Rating" : "RESET"
+	}
+  ],
+  "Property": [
+	{
+		"Id" : 0,
+		"Email" : "enzonshadow@gmail.com",
+		"Password" : "1234567890"
+	},
+	{
+		"Id" : 1,
+		"Email" : "enzo2000@gmail.com",
+		"Password" : "1234567890"
+	},
+	{
+		"Id" : 2,
+		"Email" : "enzo@mysoftinn.com",
+		"Password" : "1234567890"
+	}
+  ]
+}
